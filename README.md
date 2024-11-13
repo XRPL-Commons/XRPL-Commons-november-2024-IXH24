@@ -1,4 +1,4 @@
-# XRPL-Commons-november_2024_IXH24
+# XRPL-Commons-november-2024-IXH24
 
 -------
 ## Tracks
