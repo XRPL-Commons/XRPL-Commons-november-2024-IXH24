@@ -12,8 +12,8 @@ Projects under this track must involve the XRP Ledger in some way, whether throu
 -------------
 ## Rules
 
-- Build on Mainnet and XRPL EVM Sidechain
-- All projects must have a component on mainnet
+- Build on XRP Ledger or on EVM Sidechain
+- All projects must have a component on XRPL
 -------------
 ## Judging
 
@@ -55,6 +55,7 @@ https://github.com/XRPL-Commons/xrpl-training-april-2024
 ## Mentors
 
 - Luc (XRPL Commons) Business and General Technology
+- Thomas (XRPL Commons) Technology
 - Marco (Ripple) Technology
 - Denis (XRPL Labs) Technology
 
