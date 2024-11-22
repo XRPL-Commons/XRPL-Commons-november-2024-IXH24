@@ -24,7 +24,7 @@ Projects under this track must involve the XRP Ledger in some way, whether throu
 - potential (the total value transacted on chain, the business model, and the potential reach)
 
 ------------
-## Join the Disord
+## Join the Discord
 https://discord.com/invite/xrpl
 
 ------------
