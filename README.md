@@ -23,6 +23,12 @@ Projects under this track must involve the XRP Ledger in some way, whether throu
 - demo (how well you articulate your solution for the user)
 - potential (the total value transacted on chain, the business model, and the potential reach)
 
+-------------
+## Submissions 
+Send an email to **hackathons@xrpl-commons.org** with:
+- Your GitHub repo link
+- Your pitch deck/slides
+
 ------------
 ## Join the Discord
 https://discord.com/invite/xrpl
